@@ -18,5 +18,4 @@ A basic Java console-based calculator that performs:
 - Includes exception handling for division by zero
 - Loops to perform multiple calculations until the user exits
 
-## How to Run
 
