@@ -42,7 +42,7 @@ public class Calculator {
             // Validate operation first
             if (!operation.equals("1") && !operation.equals("2") &&
                 !operation.equals("3") && !operation.equals("4")) {
-                System.out.println("❗ Invalid choice. Please enter 1, 2, 3, or 4.");
+                System.out.println("Invalid choice. Please enter 1, 2, 3, or 4.");
                 continue; 
             }
 
@@ -87,3 +87,4 @@ public class Calculator {
         System.out.println("Calculator closed. Have a great day!");
     }
 }
+
